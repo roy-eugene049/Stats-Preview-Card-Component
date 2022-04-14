@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here]()
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/stats-preview-car-component-ry1n99BN5)
 - Live Site URL: [Click Here](https://stats-preview-card-component-zeta-beryl.vercel.app/)
 
 ## My process
