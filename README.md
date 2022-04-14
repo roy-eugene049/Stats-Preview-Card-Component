@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here]()
-- Live Site URL: [Click Here]()
+- Live Site URL: [Click Here](https://stats-preview-card-component-zeta-beryl.vercel.app/)
 
 ## My process
 
